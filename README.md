@@ -16,7 +16,7 @@ gcloud run deploy vertexai-proxy \
 --region=asia-southeast1 \
 --allow-unauthenticated \
 --set-env-vars "PROJECT_ID=<project-id>" \
---set-env-vars "ENDPOINT_REGION=asia-southeast1" \
+--set-env-vars "ENDPOINT_REGION=<region>" \
 --set-env-vars "ENDPOINT_ID=<vertex-ai-prediction-endpoints>" 
 ```
 
