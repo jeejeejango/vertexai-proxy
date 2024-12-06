@@ -1,0 +1,11 @@
+{
+    "Shifted_Easting": "440260.45",
+    "Shifted_Northing": "388202.15",
+    "Ground_Elevation": "129.37",
+    "distance_to_nearest_Borehole": "42.74295264",
+    "distance_to_2nd_nearest_Borehole": "64.71623676",
+    "nearest_Borehole_Ground_Elevation": "131.022",
+    "nearest_Borehole_Soil_Rock_Interface_Depth": "21.2",
+    "2nd_nearest_Borehole_Ground_Elevation": "130.084",
+    "2nd_nearest_Borehole_Soil_Rock_Interface_Depth": "17"
+}
